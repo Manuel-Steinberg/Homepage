@@ -1,4 +1,0 @@
-Title: RSS Feed
-----
-Description: Die aktuellsten Posts aus meinem Blog.
-----

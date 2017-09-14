@@ -1,5 +1,0 @@
-Title: Hinzufügen
-
-----
-
-Description: Neue Rechnung?

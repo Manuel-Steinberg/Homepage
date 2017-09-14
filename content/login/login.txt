@@ -1,9 +1,0 @@
-title: Login
-----
-alert: Benutzername oder Passwort ist falsch.
-----
-username: Benutzername
-----
-password: Passwort
-----
-button: Login

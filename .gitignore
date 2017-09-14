@@ -2,7 +2,7 @@
 
 kirby
 panel
-site\config
+site/config
 
 .htaccess
 .htpasswd

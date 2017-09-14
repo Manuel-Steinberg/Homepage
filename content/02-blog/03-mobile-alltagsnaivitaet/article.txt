@@ -1,0 +1,38 @@
+Title: Mobile Alltagsnaivität
+
+----
+
+Date: 2017-04-12
+
+----
+
+Tags: Mobile
+
+----
+
+Text:
+
+Die Anzahl der Smartphone-Nutzer ist in den letzten Jahren stetig gestiegen und das bedeutet, das auch die Anzahl der App-Downloads steigt. Soweit ist daran ja nichts auszusetzen, wären da nur nicht manche App-Berechtigungen.
+
+Manche Anwendungen brauchen gewisse Rechte, um die entsprechende Funktion auszuführen. Ein Beispiel wäre jede x-beliebige Kamera-App. Um ordnungsgemäß zu funktionieren, muss dieser die Erlaubnis gewährt werden, auf die Kamera des Smartphones zugreifen zu können. Der Zugriff auf das Speichermedium muss ebenfalls gewährt werden, um aufgenommene Bilder und Videos speichern zu können. Natürlich hat die ein oder andere Kamera Software auch Rechte wie "Ruhezustand des Gerätes deaktivieren". Für die Anwendungsfreundlichkeit super, da man nicht immer mit dem Finger auf dem Display interagieren muss, ohne dass sich das Display in den Ruhezustand versetzt und schwarz wird.
+
+Anders sieht es jedoch bei Anwendungen aus, die Berechtigungen haben, deren Ausmaß man allerdings nicht einschätzen kann. Zum Beispiel der Verifikation der Handynummer bei WhatsApp. Wird die jeweilige Berechtigung "SMS empfangen & senden" gewährt, übernimmt die App selbst den Verifizierungsprozess voll automatisiert. Obwohl die Verifizierung abgeschlossen ist, bleibt die Berechtigung bestehen. Und wer garantiert mir nun, dass nicht alle meinen eingehenden SMS automatisiert an WhatsApp oder einer anderen App mit der Berechtigung gesendet werden? Denn schließlich braucht WhatsApp auch das Privileg auf das Internet zugreifen zu können, um den funktionalen Aspekt gewährleisten zu können. Ich habe diese Berechtigung nach dem Authentifizierungsprozess wieder deaktiviert und vertraue einmal darauf, dass diese Einstellung Gültigkeit besitzt. Denn der Gedanke, das gegebenenfalls brisante TAN-SMS auf WhatsApp-Server landen, bereitet mir Kopfschmerzen.
+
+Aber meine Lieblingsbeispiele sind banale Apps, wie einer Taschenlampen-Applikation, die lediglich das Kamera-Licht ansteuern soll. Schaut man sich bei manchen die Berechtigungen einmal an, sollte man sich wirklich Fragen ...
+Warum???
+Hier mal ein kleiner Einblick:
+
+(image: Google-Play-App-Berechtigungen.png alt: Android App-Berechtigungen title: Android App-Berechtigungen imgclass: pure-img lazyload class: no-print caption: bearbeiteter Screenshot: Google Play Apps)
+
+Deshalb sollte man sich immer fragen, welche Berechtigungen aus funktionaler Sicht notwendig sind und welche nur der Datensammelwut der Unternehmen dienen. Was ein Unternehmen allerdings davon hat zu Wissen, wessen deiner Freunde ebenfalls ein Licht aufgegangen ist, ist mir allerdings ein Rätsel.
+
+
+----
+
+Author: Manuel Steinberg
+
+----
+
+Description:
+
+Jenen Tag werden dutzende App Heruntergeladen und Berechtigungen werden gewährt ohne darüber nachzudenken, welche Auswirkungen diese haben können.

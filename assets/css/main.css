@@ -1,0 +1,144 @@
+/* ------------------------------------------------------------------------- */
+.layout {
+    width: 100vw;
+    display: flex;
+}
+
+.layout > .sidebar {
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+    margin: 0;
+    width: calc(100vw/12*3);
+    display: flex;
+    align-items: baseline;
+    float: left;
+
+}
+
+.layout > .content {
+    background-color: green;
+    color: black;
+    margin: 0;
+    width: calc(100vw/12*9);
+    display: flex;
+    float: left;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+body {
+    background-color: orange;
+    overflow-x: hidden;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    flex-flow: column nowrap;
+    position: sticky;
+    top: calc(35vh);
+}
+
+.header > h1 {
+    margin: auto;
+    text-align: center;
+}
+
+.header > p#i-am {
+    text-align: center;
+}
+
+div.social-buttons {
+
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+
+.breadcromb {
+    display: flex;
+    justify-content: center;
+    flex-flow: row;
+}
+
+.article {
+    background-color: purple;
+    margin: 1rem 0 1rem;
+    padding-bottom: 1rem;
+}
+
+.article > a {
+    display: block;
+}
+
+.article > h2, .article > p, .article > a, .article > div {
+    width: 80%;
+    margin: auto;
+}
+
+hr {
+    width: 80%
+}
+
+.footer {
+    display: flex;
+    bottom: 0rem;
+    position: sticky;
+    width: inherit;
+    justify-content: center;
+    background-color: yellow;
+    padding: 1.5rem 0;
+    margin-top: 2rem;
+}
+
+.copyright {
+    text-align: center;
+    margin-bottom: -1rem;
+}
+
+.footer > .breadcromb {
+    display: none;
+}
+
+.article figure {
+    text-align: center;
+}
+
+.article figure img {
+    margin: auto;
+    max-width: 85%;
+}
+
+/* ------------------------------------------------------------------------------------ */
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 680px) {
+
+    .layout {
+        display: block;
+    }
+
+    .layout > .sidebar {
+        width: 100vw;
+        min-height: unset;
+        padding: 2rem 0;
+    }
+
+    .layout > .content {
+        width: 100vw;
+        justify-content: unset;
+        height: unset;
+    }
+
+    .header > .breadcromb {
+        display: none;
+    }
+    .footer > .breadcromb {
+        display: block;
+    }
+    .footer > .navigation {
+        display: none;
+    }
+}
+
+/* --------------------------------------------------------------------------------------------------------------- */

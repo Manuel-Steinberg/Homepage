@@ -1,0 +1,16 @@
+<?php if(!defined('KIRBY')) exit ?>
+
+username: manuel-steinberg
+firstname: Manuel
+lastname: Steinberg
+email: pilr@manuel-steinberg.de
+password: >
+  $2a$10$.bR81f8iYjxO1aBmc/.gPex2dA/eBaNSIgy7pZgbavUE5PEbta1IG
+language: de
+role: user
+created: 1443630041
+comments: >
+  ,,KtaEgMRNAsl+jL+B7hFdmmyjBp8QzWmw5dprXe9G2lSnRe/rudgAXc83Veo0nHMSKstq0UjI3saXZMVcgsVAIbYLfNNnS+p8eqyxk6qCRHUOAnek18KiJ5RRMaoZhzRE|GCXH1jhMGRF2chG7OxCoqE9r9RJknZkbsf9gG5SDCgc=,fVTbls0iHVubfOT9N+vMK0VMF3emReBlcyv/7E7kzsJYnCzePORQCOuHSbaiubumjsLSyV+Aemlv1UcS766AzHolYZChgcf1QjoATZqUZ9JoLX1cA7qAcGe4cTmHfWqR|O6dPDa2h5OAORPcSAhPrqLXtY0VR1DjAO3GFmoCuci4=,SVFvIJ6YmqM9C/H0Nm3LmvEa8OVJgCrZlus4HRkAYq/luhApByijb6QyD7LmUG2LaeS7bzfYHEDsw9R3O5VWkMvOkN1ytlpjyBlvNT8kVK9rs94mBc8h2/m+YAjdNJqP|8H5/V5fyMDEl/zmA654wbvOQ31f/M/pxWKLqNx2FGiE=
+amounts: >
+  ,,/Dc30bf8hryNcDmYYlPJiNSLUW4eNIbnXFKlk23iRmqhwMQ63ePvRxKMS8hmQHgZRggtAjqUgcqekWixZm1f7eAH4GeCdymHQEcOiEuIwTOuXkbSJlBuhHLKX15kY1ZS|dBhxBffz39z066pN8gZqqxMOSOFRFC/DQAXzikRJaGY=,7nw9/nocBRsZKhyaYbPTkuRZRvbWEL06rlD1cIy8QbDHpRTMsh/2ILaDvFjOl/01g4hGSecvBy+O45gztfMXYvbCb2bGv3TP1CkQClBIgiqkJPDxUjFn1QHJ1NeujOvJ|IxxsHUTJitIfamrJKKvjHTl+E2vA3jCKeRwXb6TML+4=,rCY628EEbGVetS7wXNL8Q5LaOE+05loUfyt547FJxkqEKOmefqj7L5Z/K7HdoaD7GOxdTk2Hykm4hhee/OtbEPFIeqYSTNh4FVsKYbPCr3MOCV2Cm9gZgSTGu3CyHFI7|eZoA9poJEgIGVu5lH5Khjhp5voRZH2aPywl/KDfnKkg=
+dates: ,,1445160492,1445160492,1445160492

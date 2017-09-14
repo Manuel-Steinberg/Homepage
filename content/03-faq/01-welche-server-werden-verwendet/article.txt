@@ -1,0 +1,23 @@
+Title: Welche Server werden verwendet?
+
+----
+
+Date: 2017-03-19
+
+----
+
+Tags: Server
+
+----
+
+Text:
+
+Alle Server werden von (link: https://m.do.co/c/ca625ab6d583 text: Digital Ocean class: affiliate title Digital OCean Affiliate Link popup: yes) bezogen.
+
+----
+
+Author: Manuel Steinberg
+
+----
+
+Description: Welche Server werden bevorzugt?

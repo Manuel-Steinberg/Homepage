@@ -1,0 +1,142 @@
+.share-container {
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    margin: -1em 0 0 0;
+}
+
+.share-container > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.share-button {
+    width: 90%;
+    min-height: 30px;
+    height: 100%;
+    color: white;
+    font-size: 12px;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: inset 0 -3px 0 rgba(0, 0, 0, .2);
+    -moz-box-shadow: inset 0 -3px 0 rgba(0, 0, 0, .2);
+    -webkit-box-shadow: inset 0 -3px 0 rgba(0, 0, 0, .2);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.share-button i {
+    font-size: 2em;
+}
+
+
+
+@media screen and (max-width:35.438em) {
+    .share-button-hide-xs {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width:35.5em) and (max-width:47.938em) {
+    .share-button-hide-sm {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width:48em) and (max-width:63.938em) {
+    .share-button-hide-md {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width:64em) and (max-width:79.938em) {
+    .share-button-hide-lg {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width:80em) {
+    .share-button-hide-xl {
+        display: none !important;
+    }
+}
+
+
+/** Social button colors **/
+
+.share-button-twitter {
+    background: #00aced;
+}
+
+.share-button-twitter:hover,
+.share-button-twitter:active {
+    background: #0084b4;
+    text-decoration: none;
+}
+
+.share-button-facebook {
+    background: #3B5997;
+}
+
+.share-button-facebook:hover,
+.share-button-facebook:active {
+    background: #2d4372;
+    text-decoration: none;
+}
+
+.share-button-google-plus {
+    background: #D64937;
+}
+
+.share-button-google-plus:hover,
+.share-button-google-plus:active {
+    background: #b53525;
+    text-decoration: none;
+}
+
+.share-button-linkedin {
+    background: #0077b5;
+}
+
+.share-button-linkedin:hover,
+.share-button-linkedin:active {
+    background: #004482;
+    text-decoration: none;
+}
+
+.share-button-xing {
+    background: #026466;
+}
+
+.share-button-xing:hover,
+.share-button-xing:active {
+    background: #003133;
+    text-decoration: none;
+}
+
+.share-button-envelope {
+    background: #373737;
+}
+
+.share-button-envelope:hover,
+.share-button-envelope:active {
+    background: #040404;
+    text-decoration: none;
+}
+
+.share-button-whatsapp {
+    background: #43d854;
+}
+
+.share-button-whatsapp:hover,
+.share-button-whatsapp:active {
+    background: #009688;
+    text-decoration: none;
+}

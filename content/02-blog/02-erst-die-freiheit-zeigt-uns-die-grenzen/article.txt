@@ -1,0 +1,37 @@
+Title: Erst die Freiheit zeigt uns die Grenzen
+
+----
+
+Date: 2016-02-18
+
+----
+
+Tags: Start
+
+----
+
+Text:
+
+Im Internet ist man ein gläserner Bürger! Sämtliche personenbezogenen Metadaten werden gespeichert und zum Tracking verwendet. Doch kann man etwas gegen dieses Tracking unternhemen?
+
+Eine Möglichkeit ist zum Beispiel, das Nutzen eines VPN Dienstleisters. Und vor etwa einem Jahr habe ich mich dazu entschlossen einen kostenpflichtigen VPN Dienst zu nutzen. Diese werben mit "Mehr Privatssphäre, kein Tracking oder kein GEO-Blocking". Bis dahin habe ich mir keine Gedanken über GEO-Blocking gemacht oder was es tatsächlich bedeutet.
+
+Als ich monate später in die USA gereist bin, wollte ich wissen, was es derzeit in Deutschland neues gibt. Da wir ja in einer sehr modernen Welt leben und so gut wie jeder TV-Sender seine eigene Mediathek mit Live-Streaming hat, sollte dies ja keine Herausforderung darstellen. Leider war dieser Gedanke naiv!
+
+(image: ARD-Mediathek.png alt: GEO-Blocking bei ARD title: GEO-Blocking bei ARD imgclass: pure-img lazyload class: no-print caption: Screenshot: ARD-Mediathek)
+(image: ZDF-Mediathek.png alt: GEO-Blocking bei ZDF title: GEO-Blocking bei ZDF imgclass: pure-img lazyload class: no-print caption: Screenshot: ZDF-Mediathek)
+(image: BBC-Mediathek.png alt: GEO-Blocking bei BBC title: GEO-Blocking bei BBC imgclass: pure-img lazyload class: no-print caption: Screenshot: BBC-Mediathek)
+
+Und wer kennt sie nicht, diese tollen Fehlermeldungen bei YouTube: "Dieses Video ist in Ihrem Land leider nicht verfügbar".
+
+Nun konnte endlich mein VPN Dienst zeigen, was in ihm steckt. Einfach einen deutschen Server ausgewählt und auf einmal konnte ich den Livestream der ARD verfolgen. Und erst mit der Freiheit GEO-Blocking zu umgehen, sieht man erst, an wie vielen Stellen im Internet Inhalt nicht angezeigt, beziehungsweise für andere Länder zensiert wird. Daher empfehle ich jedem einen VPN Dienst, um sich selbst aus diesem digitalen Käfig zu befreien und Länderbarrieren umgehen zu können.
+
+----
+
+Author: Manuel Steinberg
+
+----
+
+Description:
+
+Das Internet wächst Tag für Tag und doch können wir niemals alles einsehen.

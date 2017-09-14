@@ -1,0 +1,25 @@
+Title: Warum werden Flat-File-CMS verwendet?
+
+----
+
+Date: 2017-03-20
+
+----
+
+Tags: CMS
+
+----
+
+Text:
+
+Flat-File-CMS, wie zum Beispiel (link: https://getkirby.com/ text: Kirby title: Kirby is a file-based CMS) haben mehrere Vorteile.
+Zum Einen wird keine Datenbank mehr benötigt, dadurch fallen jegliche Wartungs-/Installationsaufwände weg. Des weiteren laden die Seiten viel schneller, da keine zusätzlichen Wartezeiten durch SQL-Abfragen entstehen.
+
+
+----
+
+Author: Manuel Steinberg
+
+----
+
+Description: Welche Server werden bevorzugt?

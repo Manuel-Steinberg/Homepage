@@ -2,8 +2,6 @@
 .idea
 
 #Kirby CMS
-kirby
-panel
 site/config
 
 #Security

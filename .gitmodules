@@ -4,6 +4,3 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
-[submodule "site/plugins/WebPeas"]
-	path = site/plugins/WebPeas
-	url = https://github.com/Manuel-Steinberg/WebPeas.git

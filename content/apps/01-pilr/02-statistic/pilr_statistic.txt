@@ -1,5 +1,0 @@
-Title: Statistik
-
-----
-
-Description: Deine persönliche Statistik.

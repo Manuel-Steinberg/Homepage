@@ -5,5 +5,4 @@
 site/config
 
 #Security
-.htaccess
 .htpasswd

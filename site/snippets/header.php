@@ -13,13 +13,13 @@
         <hr />
         <div class="breadcromb">
             <?php foreach($site->breadcrumb() as $crumb): ?>
-
-                <a href="<?php echo html($crumb->url()) ?>">
-                    <?php if ($crumb->isHomePage()): ?>
-                        <i class="fa fa-home" aria-hidden="true"></i>
-                    <?php else: echo html($crumb->title()); endif; ?>
-                </a>
-
+                <?php if ($crumb->isHomePage() || $crumb != $site->activePage()): ?>
+                    <a href="<?php echo html($crumb->url()) ?>">
+                        <?php if ($crumb->isHomePage()): ?>
+                            <i class="fa fa-home" aria-hidden="true"></i>
+                        <?php else: echo html($crumb->title()); endif; ?>
+                    </a>
+                <? endif; ?>
             <?php endforeach; ?>
         </div>
     </div>

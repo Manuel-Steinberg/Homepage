@@ -6,7 +6,7 @@
 
 .layout > .sidebar {
     min-height: 100vh;
-    background-color: black;
+    background-color: grey;
     color: white;
     margin: 0;
     width: calc(100vw/12*3);
@@ -17,7 +17,6 @@
 }
 
 .layout > .content {
-    background-color: green;
     color: black;
     margin: 0;
     width: calc(100vw/12*9);
@@ -28,7 +27,6 @@
 }
 
 body {
-    background-color: orange;
     overflow-x: hidden;
 }
 
@@ -62,9 +60,20 @@ div.social-buttons {
     flex-flow: row;
 }
 
+.breadcromb > a {
+    border: 2px solid darkgray;
+    padding: 0.25rem 0.25rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 2px;
+    letter-spacing: .05rem;
+    margin: 0rem 0.25rem;
+    word-break: unset;
+    display: inline-block;
+}
+
 .article {
-    background-color: purple;
-    margin: 1rem 0 1rem;
+    margin: 1rem 5rem;
     padding-bottom: 1rem;
 }
 
@@ -73,12 +82,12 @@ div.social-buttons {
 }
 
 .article > h2, .article > p, .article > a, .article > div {
-    width: 80%;
     margin: auto;
+    padding: 0rem 1rem;
 }
 
 hr {
-    width: 80%
+    width: 80%;
 }
 
 .footer {
@@ -87,9 +96,10 @@ hr {
     position: sticky;
     width: inherit;
     justify-content: center;
-    background-color: yellow;
+    background-color: white;
     padding: 1.5rem 0;
     margin-top: 2rem;
+    box-shadow: inset 0 2px 15px -10px black;
 }
 
 .copyright {
@@ -128,6 +138,10 @@ hr {
         width: 100vw;
         justify-content: unset;
         height: unset;
+    }
+
+    .article {
+        margin: 1rem 2rem 1rem 2rem;
     }
 
     .header > .breadcromb {

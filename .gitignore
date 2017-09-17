@@ -1,8 +1,5 @@
 #PHPStorm
 .idea
 
-#Kirby CMS
-site/config
-
 #Security
 .htpasswd

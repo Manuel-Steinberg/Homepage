@@ -32,7 +32,3 @@ if (getenv('HTTP_ENV') === 'PROD'){
 
 <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4.0" media="print" integrity="sha384-/X3/u0SIC4RxC+iEqfrY/ZwCc+Yit7Xuy3Fyj1uhaHlfS4BBsyFH8IaXdgCEFfMU" crossorigin="anonymous">
 <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4.0/dist/themes/modern.min.css" integrity="sha384-jlsI4AiMWV/iC71CpFtBCNpsNO9ztTRCqHL6GkM+GYdK+Zuol4f6lXERL/187Ecq" crossorigin="anonymous">
-
-<?php if (getenv('HTTP_ENV') === 'DEV'): ?>
-    <script src="https://dev.manuel-steinberg.de/assets/js/dev.jobs.minify.config.js" async></script>
-<?php endif; ?>

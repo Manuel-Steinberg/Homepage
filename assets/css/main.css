@@ -36,6 +36,7 @@ body {
     flex-flow: column nowrap;
     position: sticky;
     top: calc(35vh);
+    margin-top: calc(35vh);
 }
 
 .header > h1 {
@@ -51,7 +52,7 @@ div.social-buttons {
 
     display: flex;
     flex-flow: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .breadcromb {
@@ -88,6 +89,7 @@ div.social-buttons {
 
 hr {
     width: 80%;
+    margin: 0.5rem auto;
 }
 
 .footer {
@@ -142,6 +144,10 @@ hr {
 
     .article {
         margin: 1rem 2rem 1rem 2rem;
+    }
+
+    .header {
+        margin-top: unset;
     }
 
     .header > .breadcromb {

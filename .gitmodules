@@ -4,3 +4,12 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "addons/minify"]
+	path = addons/minify
+	url = https://github.com/matthiasmullie/minify.git
+[submodule "addons/css-crush"]
+	path = addons/css-crush
+	url = https://github.com/peteboere/css-crush.git
+[submodule "addons/path-converter"]
+	path = addons/path-converter
+	url = https://github.com/matthiasmullie/path-converter.git

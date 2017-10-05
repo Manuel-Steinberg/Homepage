@@ -94,6 +94,10 @@ RewriteRule ^site/(.*) index.php [L]
 # block all files in the kirby folder from being accessed directly
 RewriteRule ^kirby/(.*) index.php [L]
 
+# block all files in the addons/jobs folder from being accessed directly
+RewriteRule ^addons/(.*) index.php [L]
+RewriteRule ^jobs/(.*) index.php [L]
+
 # make panel links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

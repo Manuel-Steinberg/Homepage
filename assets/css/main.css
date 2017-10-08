@@ -122,6 +122,13 @@ hr {
     max-width: 85%;
 }
 
+iframe {
+    width: 100%;
+    border: none;
+    margin: 2rem 0rem;
+    height: 100%;
+}
+
 /* ------------------------------------------------------------------------------------ */
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 680px) {

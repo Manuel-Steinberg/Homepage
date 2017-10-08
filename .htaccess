@@ -35,7 +35,7 @@
 SetEnv HTTP_ENV PROD
 
 # Security Header
-Header set Content-Security-Policy "default-src 'self'; script-src 'self' *.cloudflare.com *.manuel-steinberg.de; child-src 'self'; connect-src 'self'; img-src 'self' *.cloudflare.com *.manuel-steinberg.de; style-src 'self' unpkg.com fonts.googleapis.com; font-src 'self' fonts.gstatic.com;"
+Header set Content-Security-Policy "default-src 'self'; script-src 'self' *.cloudflare.com *.manuel-steinberg.de; child-src 'self' *.manuel-steinberg.de; connect-src 'self'; img-src 'self' *.cloudflare.com *.manuel-steinberg.de; style-src 'self' unpkg.com fonts.googleapis.com; font-src 'self' fonts.gstatic.com;"
 Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload" env=HTTPS
 Header set X-Xss-Protection "1; mode=block"
 Header set X-Content-Type-Options nosniff

@@ -11,7 +11,7 @@ It is not permitted to run a public website without a
 valid license key. Please read the End User License Agreement
 for more information: http://getkirby.com/license
 */
-c::set('license', 'K2-PERSONAL-d00f753545eef21bf8ca091bac9354ee');
+c::set('license', 'K2-*-d00*4ee');
 
 /*
 ---------------------------------------
